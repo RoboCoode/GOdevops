@@ -1,4 +1,4 @@
-module first/GoCloud
+module github.com/RoboCoode/GOdevops
 
 go 1.19
 
